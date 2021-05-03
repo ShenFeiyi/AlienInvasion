@@ -84,7 +84,7 @@
 
 ### 2.2. RaspberryPi
 
-- <dir>alien_key</dir>
+- <dir>alien</dir>
     - `alien.py`
     - `board.py`
     - `bullet.py`
